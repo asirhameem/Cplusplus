@@ -1,0 +1,21 @@
+﻿Build started 31/7/2018 1:48:54 AM.
+     1>Project "F:\Visual studio\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(102): error C3861: 'get_ms': identifier not found
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(103): error C3861: 'get_eid': identifier not found
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(104): error C3861: 'get_position': identifier not found
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(115): error C2039: 'set_ms' : is not a member of 'cricketplayer'
+                 f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(76) : see declaration of 'cricketplayer'
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(116): error C2039: 'set_eid' : is not a member of 'cricketplayer'
+                 f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(76) : see declaration of 'cricketplayer'
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(117): error C2039: 'set_position' : is not a member of 'cricketplayer'
+                 f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(76) : see declaration of 'cricketplayer'
+     1>f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(120): error C2039: 'details' : is not a member of 'cricketplayer'
+                 f:\visual studio\consoleapplication4\consoleapplication4\source.cpp(76) : see declaration of 'cricketplayer'
+     1>Done Building Project "F:\Visual studio\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.79
